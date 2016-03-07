@@ -1,7 +1,6 @@
 # BitDay-changer
 
- BitDay-changer is an automated wallpaper changer for the [BitDay package](http://www.reddit.com/r/bitday/comments/1ts4j0/bitday_version_10/) by [/u/BloodyMarvellous](http://www.reddit.com/user/BloodyMarvellous)
-
+BitDay-changer is an automated wallpaper changer for the [BitDay package](http://danny.care/bitday/download/) by [/u/BloodyMarvellous](http://www.reddit.com/user/BloodyMarvellous)
 
 ## Usage Instructions
 
