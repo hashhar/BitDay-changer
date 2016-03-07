@@ -81,7 +81,7 @@ if ! crontab -l | grep -Fxq "$line"; then
 fi
 
 line="@reboot ${pwd}/change.sh"
-if ! crontab -;l | grep -Fxq "$line"; then
+if ! crontab -l | grep -Fxq "$line"; then
 	(crontab -l ;  echo "$line") | crontab -
 fi
 
